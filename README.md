@@ -26,9 +26,9 @@ const dusica = {
 
 ---
 
-I'm Dusica — a 3rd-year Information Science & Engineering student who builds interfaces that are sharp, fast, and actually pleasant to use.
+I'm Dusica a 3rd-year Information Science & Engineering student who builds interfaces that are sharp, fast, and actually pleasant to use.
 
-My craft is **React**. I care about the details— spacing, motion timing, state transitions, accessibility. The frontend is where logic meets feeling, and that's exactly where I want to be.
+My craft is **React**. I care about the details spacing, motion timing, state transitions, accessibility. The frontend is where logic meets feeling, and that's exactly where I want to be.
 
 ---
 
