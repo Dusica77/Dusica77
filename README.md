@@ -1,4 +1,3 @@
-GitHub profile README — purple galaxy theme for Dusica S, frontend developer
 
 <div align="center">
 
