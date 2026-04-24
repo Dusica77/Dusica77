@@ -65,7 +65,6 @@ A complete cafe ordering platform with cart management, order validation, email 
 
 - Studying Information Science & Engineering — 3rd year at VTU
 - Deep-diving into **React Server Components** and Next.js 15
-- Building a **personal design system** from scratch
 - Looking for **Web Development internship opportunities**
 
 ---
