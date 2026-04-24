@@ -1,7 +1,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=BC8CFF&center=true&vCenter=true&width=500&lines=Dusica+S.;Frontend+Developer;React+%2B+TypeScript;ISE+%40+VTU)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=BC8CFF&center=true&vCenter=true&width=500&lines=Dusica+S.;WEB DEVELOPMENT;React+%2B+TypeScript;PYTHON;JAVA;ISE+%40+VTU)](https://git.io/typing-svg)
 
 **Web Development. Python · Information Science & Engineering**
 
