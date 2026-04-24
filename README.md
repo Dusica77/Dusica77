@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=BC8CFF&center=true&vCenter=true&width=500&lines=Dusica+S.;Frontend+Developer;React+%2B+TypeScript;ISE+%40+VTU)](https://git.io/typing-svg)
 
-**Frontend Developer · Information Science & Engineering · React**
+**Web Development. Python · Information Science & Engineering**
 
 ![React](https://img.shields.io/badge/React-0a0612?style=for-the-badge&logo=react&logoColor=bc8cff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0a0612?style=for-the-badge&logo=typescript&logoColor=a78bfa)
@@ -18,7 +18,7 @@
 ```js
 const dusica = {
   name:       "Dusica S",
-  role:       "Frontend Developer",
+  role:       "Web Development",
   education:  "ISE, 3rd Year @ VTU",
   stack:      ["React", "TypeScript", "Tailwind", "Next.js"],
   status:     "open to opportunities"
@@ -35,26 +35,28 @@ I'm Dusica — a 3rd-year Information Science & Engineering student who builds i
 
 My craft is **`React`**. The frontend is where logic meets feeling, and that's exactly where I want to be.
 
+Beyond the browser, I work with Python for scripting, data processing, and backend logic bridging the gap between elegant frontends and intelligent systems.
+
 ---
 
 ### ✦ TECH STACK
 
 | Category | Tools |
 |:---------|:------|
-| Frameworks | `React` · `Next.js` |
-| Languages | `JavaScript` · `TypeScript` · `HTML5` · `CSS3` |
+| Frameworks | `React` · `Next.js`,`Flask` |
+| Languages | `JavaScript` · `TypeScript` · `HTML5` · `CSS3`.`Python`.`Java`|
 | Styling | `Tailwind CSS` · `Framer Motion` |
-| Design | `Figma` · `UI/UX principles` |
-| Tools | `Git` · `GitHub` · `VS Code` · `Vercel` |
+| Tools | `Git` · `GitHub` · `VS Code` · `Render` |
 
 ---
 
 ### ✦ RIGHT NOW
 
 - Studying Information Science & Engineering — 3rd year at VTU
+- Exploring **`Python`** for data visualization and ML integration
 - Deep-diving into **`React Server Components`** and Next.js 15
 - Building a **`personal design system`** from scratch
-- Looking for **`frontend internship opportunities`**
+- Looking for **`internship opportunities`**
 
 ---
 
@@ -77,7 +79,6 @@ My craft is **`React`**. The frontend is where logic meets feeling, and that's e
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0612?style=for-the-badge&logo=linkedin&logoColor=bc8cff)](https://linkedin.com/in/dusica-s-28b86a290)
 
-[![Email](https://img.shields.io/badge/Gmail-0a0612?style=for-the-badge&logo=gmail&logoColor=9d78f0)](mailto:dusica200506@email.com)
 
 ---
 
