@@ -53,7 +53,7 @@ A smart recipe discovery app that transforms fridge leftovers into mouth-waterin
 
 ---
 
-### React Component Library
+### Delights
 A complete cafe ordering platform with cart management, order validation, email confirmation, and real-time order tracking. Customers receive automated email updates with tracking links, while admins can manage products and order status. Deployed with backend on Render and frontend as a static site.
 `JavaScript` · `Express.js` · `MongoDB Atlas` ·`JWT Auth`
 
