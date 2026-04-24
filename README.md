@@ -74,11 +74,11 @@ A complete cafe ordering platform with cart management, order validation, email 
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0612&title_color=bc8cff&icon_color=a78bfa&text_color=c4b5e0)
+![Stats](https://github-readme-stats.vercel.app/api?username=Dusica77&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0612&title_color=bc8cff&icon_color=a78bfa&text_color=c4b5e0)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0a0612&ring=bc8cff&fire=a78bfa&currStreakLabel=d4b8ff)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dusica77&theme=tokyonight&hide_border=true&background=0a0612&ring=bc8cff&fire=a78bfa&currStreakLabel=d4b8ff)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0612&title_color=bc8cff&text_color=c4b5e0)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dusica77&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0612&title_color=bc8cff&text_color=c4b5e0)
 
 </div>
 
